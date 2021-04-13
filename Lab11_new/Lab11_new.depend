@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618303178 source:/home/pi/asm/Lab11_new/main.c
+	<stdio.h>
+	<errno.h>
+	<wiringPi.h>
+
